@@ -1,41 +1,59 @@
 div{
-	width: 380px;
-	height:260px;
-	color:#010101;
-	min-width: 0px;
-	font-size: small;
-	font-family: serif;
-	text-decoration: underline #040404;
-	background-repeat: no-repeat;
-	float: left;
+    background-color:transparent;
+    margin:20px;
+    width: 300px;
+    height: 180px;
+    background-repeat: no-repeat;
+    float: left;
 }
 
+
+h1{
+    
+    font-size: x-large;
+    color:#0B0202;
+}
+hr{
+
+    width: 100px;
+    height: 4px;
+    background-color: #131111;
+    margin-left: 0px;
+  
+}
+p{
+    display: block;
+    color:#0B0808;
+    
+
+}
 .coder1{
-	background-image: url(../img/coder_1.jpg);
-	background-size: 250px;
-	
+    background-image: url(../img/coder1.jpg);
+    background-size: 250px;
+    
 }
 .coder2{
-	background-image: url(../img/coder_2.jpg);
-	background-size: 250px;
+    background-image: url(../img/coder2.jpg);
+    background-size: 250px;
 }
 
 .coder3{
-	background-image: url(../img/coder_3.jpg);
-	background-size: 250px;
+    background-image: url(../img/coder3.jpg);
+    background-size: 250px;
 }
 .coder4{
-	background-image: url(../img/coder_4.jpg);
-	background-size: 250px;
-	
+    background-image: url(../img/coder4.jpg);
+    background-size: 250px;
+    
 }
 
 .coder5{
-	background-image: url(../img/coder_5.jpg);
-	background-size: 250px;
+    background-image: url(../img/coder5.jpg);
+    background-size: 250px;
 }
 .coder6{
-	background-image: url(../img/coder_6.jpg);
-	background-size: 250px;
+    background-image: url(../img/coder6.jpg);
+    background-size: 200px;
 }
+
 
